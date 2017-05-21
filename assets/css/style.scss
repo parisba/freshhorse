@@ -4,8 +4,6 @@
 @import "{{ site.theme }}";
 
 body {
-	background: url(background.png);
+	background-image: url(../../background.png);
 	background-repeat: repeat;
 }
-
-snoozlephone
