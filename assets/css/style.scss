@@ -2,3 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+
+html {
+	background-image: url(background.png);
+	background-repeat: repeat;
+}
